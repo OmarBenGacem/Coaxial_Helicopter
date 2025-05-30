@@ -32,7 +32,7 @@ save("variables.mat")
 %%%% JANSENS VARIABLES %%%%
 
 g = 9.81;                   % gravity
-helicopter_mass = 2.112;                  % mass
+helicopter_mass = 2.112;    % mass
 I_xx = 55390782.61*10^-9;   % inertia xx
 I_yy = 59517964.39*10^-9;   % inertia yy    
 I_zz = 18366526.10*10^-9;   % inertia zz
